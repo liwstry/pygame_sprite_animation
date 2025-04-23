@@ -1,0 +1,11 @@
+[project]
+name = "pygame-sprite"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "icecream>=2.1.4",
+    "iostream>=7.1.2",
+    "pygame>=2.6.1",
+]
